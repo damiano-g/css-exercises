@@ -1,20 +1,20 @@
-.out{
+.outer{
     color: black;
-    background-color: lightpink/red;
+    background-color: rgb(255, 128, 150);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
-.in{
+.inner{
     font-size: 24px;
 }
 
-#num1{
+#num2{
     color: blue;
     font-size: 36px;
 }
 
-#num2{
-    color: lightgreen;
+#num4{
+    background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;
 }
